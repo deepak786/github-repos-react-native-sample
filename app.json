@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "name": "Github Repos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#2b3d53",
+    "icon": "./www/images/ic_launcher.png",
+    "androidStatusBar": {
+    	"barStyle": "light-content",
+    	"backgroundColor": "#253548",
+    },
+   	"android": {
+   		"package": "com.reactnative.githubrepos"
+   	},
+   	"splash": {
+   		"image": "./www/images/splash.png"
+   	}
+  }
+}
