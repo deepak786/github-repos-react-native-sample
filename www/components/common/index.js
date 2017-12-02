@@ -5,5 +5,3 @@
 export * from './Card';
 export * from './CardItem';
 export * from './Header';
-export * from './Tag';
-export * from './Input';
