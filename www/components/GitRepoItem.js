@@ -12,8 +12,10 @@ class GitRepoItem extends Component {
 
 	shouldComponentUpdate(nextProps, nextState) {
 		if (this.props.item === nextProps.item) {
+			console.log('Not Updated');
 			return false;
 		}
+		console.log('Updated');
 		return true;
 	}
 

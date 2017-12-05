@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#2b3d53",
-    "icon": "./www/images/ic_launcher.png",
+    "icon": "./www/images/app_icon.png",
     "androidStatusBar": {
     	"barStyle": "light-content",
     	"backgroundColor": "#253548",
@@ -14,7 +14,8 @@
    		"package": "com.reactnative.githubrepos"
    	},
    	"splash": {
-   		"image": "./www/images/splash.png"
+   		"image": "./www/images/splashIcon.png",
+      "backgroundColor": "#2b3d53"
    	}
   }
 }
